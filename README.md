@@ -129,8 +129,12 @@ Dengan penambahan SuperMaven untuk manajemen build multi-bahasa dan Sourcery unt
 
 ### Tambahan :
 
-
-
+--wakatime 
+-- discord presence
+-- minty
+--neogit
+--neotest 
+--inlines diagnostinc
 
 Untuk AI DeepSek Integrasi dengan Neovim -> COMING SOON!
 
