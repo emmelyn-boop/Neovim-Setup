@@ -129,7 +129,10 @@ Dengan penambahan SuperMaven untuk manajemen build multi-bahasa dan Sourcery unt
 
 ### Tambahan :
 
---wakatime 
+--run wakatime 
+   '''
+WakaTimeApiKey
+   '''
 -- discord presence
 -- minty
 --neogit
