@@ -137,17 +137,17 @@ Untuk AI DeepSek Integrasi dengan Neovim -> COMING SOON!
 AI DeepSek akan segera hadir untuk integrasi lebih dalam, memberikan kemampuan AI tambahan dalam Neovim Anda, membantu Anda dengan berbagai tugas pengembangan dan optimasi kode.
 Fitur Lain yang Tersedia:
 
-    Dukungan untuk MySQL: Menyediakan autocompletion dan linting untuk skrip SQL, mempermudah Anda dalam mengelola dan menulis query database.
+  -  Dukungan untuk MySQL: Menyediakan autocompletion dan linting untuk skrip SQL, mempermudah Anda dalam mengelola dan menulis query database.
 
-    Integrasi Gradle & Groovy: Menyederhanakan build otomatis dan task management di proyek Java dengan integrasi penuh ke Gradle. Groovy juga didukung untuk script-building.
+  - Integrasi Gradle & Groovy: Menyederhanakan build otomatis dan task management di proyek Java dengan integrasi penuh ke Gradle. Groovy juga didukung untuk script-building.
 
-    Docker Support: Mempermudah pengelolaan dan konfigurasi kontainer Docker dengan autocompletion, linting, dan integrasi Docker CLI langsung dari Neovim.
+  -  Docker Support: Mempermudah pengelolaan dan konfigurasi kontainer Docker dengan autocompletion, linting, dan integrasi Docker CLI langsung dari Neovim.
 
-    ESLint & JSONLS: Integrasi penuh dengan ESLint untuk linting kode JavaScript/TypeScript dan JSONLS untuk validasi dan autocompletion berkas JSON.
+  -  ESLint & JSONLS: Integrasi penuh dengan ESLint untuk linting kode JavaScript/TypeScript dan JSONLS untuk validasi dan autocompletion berkas JSON.
 
-    YAML & PHP Support: Neovim mendukung pengeditan berkas YAML dan PHP dengan fitur autocompletion dan linting untuk PHP, serta syntax highlighting dan validasi untuk YAML.
+  -  YAML & PHP Support: Neovim mendukung pengeditan berkas YAML dan PHP dengan fitur autocompletion dan linting untuk PHP, serta syntax highlighting dan validasi untuk YAML.
 
-    Model AI untuk Pembuatan AI di Java: Menyediakan alat dan integrasi untuk pengembangan model AI dalam bahasa Java, memungkinkan Anda bekerja dengan pustaka Java untuk machine learning langsung dari Neovim.
+   -- Model AI untuk Pembuatan AI di Java: Menyediakan alat dan integrasi untuk pengembangan model AI dalam bahasa Java, memungkinkan Anda bekerja dengan pustaka Java untuk machine learning langsung dari Neovim.
 
 Dengan fitur-fitur canggih ini, Anda dapat menangani berbagai bahasa dan alat pengembangan sekaligus meningkatkan efisiensi dan produktivitas kode Anda.
 Kesimpulan
@@ -156,4 +156,4 @@ Konfigurasi Neovim ini tidak hanya menawarkan integrasi mendalam dengan berbagai
 
 Saya memberikan semua ini secara gratis, jadi jangan ragu untuk memanfaatkan sepenuhnya dan menjadikan alur kerja Anda lebih efisien dan menyenangkan.
 
-Selamat berkoding! 🍻
+Selamat ng0ding! 🍻
