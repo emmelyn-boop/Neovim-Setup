@@ -1,6 +1,10 @@
-# 🚀 Neovim Configuration: The Ultimate Developer Setup
+### 🚀 Selamat Datang di Konfigurasi Neovim Saya!
 
-Selamat datang di konfigurasi Neovim saya. Neovim ini dirancang untuk memaksimalkan efisiensi, menawarkan lingkungan pengembangan yang cepat, intuitif, dan sepenuhnya dapat disesuaikan. Setup ini disesuaikan dengan sempurna untuk membantu Anda menulis kode seperti profesional, apakah Anda bekerja pada model AI, pengembangan web, atau proyek berskala besar.
+Apakah Anda seorang pemula yang baru mulai belajar coding, atau mahasiswa yang ingin meningkatkan alur kerja pengembangan Anda? Neovim ini dirancang khusus untuk memaksimalkan efisiensi Anda dengan cara yang cepat, intuitif, dan mudah disesuaikan.
+
+Dengan konfigurasi ini, Neovim berfungsi seperti IDE yang sangat ringan, namun sangat powerful! Setup ini memungkinkan Anda untuk menulis kode seperti seorang profesional, tanpa perlu perangkat berat atau pengaturan yang rumit. Ideal untuk pengembangan model AI, web development, atau bahkan proyek besar yang sedang Anda kerjakan.
+
+Dengan konfigurasi ini, Anda tidak hanya mendapatkan pengalaman seperti IDE, tetapi juga kendali penuh atas pengaturan Neovim yang dapat disesuaikan sesuai kebutuhan Anda, menjadikan Neovim pilihan yang sangat baik baik untuk pemula maupun mereka yang ingin meningkatkan produktivitas coding mereka.
 
 ---
 
@@ -121,6 +125,7 @@ Integrasi **AI DeepSeek** untuk saran cerdas dan optimasi kode di Neovim.
 - **Neogit**: Git langsung di Neovim.
 - **Tree-sitter**: Highlight sintaksis lebih canggih.
 - **Telescope**: Pencarian file, buffer, dll.
+- **Inlines Diagnostik** 
 
 ---
 
