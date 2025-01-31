@@ -123,7 +123,7 @@ Mengatur Neovim dengan konfigurasi ini sangat mudah. Ikuti langkah-langkah berik
 Dengan penambahan SuperMaven untuk manajemen build multi-bahasa dan Sourcery untuk refactoring lintas bahasa, setup Neovim Anda kini dapat menangani segala bahasa pemrograman. Baik Anda bekerja dengan pengembangan web, model AI, aplikasi perusahaan, atau apapun, fitur-fitur ini memastikan lingkungan pengkodean yang kokoh, efisien, dan produktif.
 
 
->>> setup neovim saya belum sepenuhnya  perfect karna fitur fiturnya belum di uji coba masih dalam tahap pembangunan->> enjoy
+--- FITUR FITUR INI TIDAK SEMUA SAYA MASUKAN KARNA MUNGKIN MALAZ HEHE ---
 
 ---
 
