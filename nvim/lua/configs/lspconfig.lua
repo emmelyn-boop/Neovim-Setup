@@ -394,6 +394,7 @@ lspconfig.html.setup {
   on_init = on_init,
   settings = {
     html = {
+      -- Validasi elemen dan atribut
       validate = {
         enable = true,
         scripts = true,
@@ -406,6 +407,7 @@ lspconfig.html.setup {
         validateTagName = true,
         warnAboutInvalidHTML = true,
       },
+      -- Format dan styling HTML
       format = {
         enable = true,
         wrapLineLength = 120,
@@ -417,6 +419,7 @@ lspconfig.html.setup {
         inlineStyle = { ["markuplint/markuplint"] = true },
         inlineScript = { ["markuplint/markuplint"] = true },
       },
+      -- Saran untuk elemen HTML, CSS, dan lainnya
       suggest = {
         html5 = true,
         style = true,
@@ -435,6 +438,7 @@ lspconfig.html.setup {
         jsonSchema = true,
         xml = true,
       },
+      -- Linting dan validasi HTML
       lint = {
         validate = true,
         maxLineLength = 80,
@@ -449,6 +453,7 @@ lspconfig.html.setup {
           },
         },
       },
+      -- Penyelesaian otomatis dan snippet
       completion = {
         enable = true,
         autoInsert = true,
@@ -462,6 +467,7 @@ lspconfig.html.setup {
           enable = true,
         },
       },
+      -- CSS Validation, linting, dan formatter
       css = {
         validate = true,
         lint = true,
@@ -470,6 +476,7 @@ lspconfig.html.setup {
           defaultFormatter = "prettier",
         },
       },
+      -- JavaScript dan JSX linting dan formatter
       javascript = {
         validate = true,
         format = {
@@ -477,6 +484,7 @@ lspconfig.html.setup {
           defaultFormatter = "prettier",
         },
       },
+      -- Vue.js linting dan formatting
       vue = {
         validate = true,
         format = {
@@ -484,22 +492,26 @@ lspconfig.html.setup {
           defaultFormatter = "prettier",
         },
       },
-      snippets = { -- Menambahkan Snippets HTML Bawaan
+      -- Menambahkan Snippets HTML Bawaan
+      snippets = {
         enable = true,
         builtInSnippets = true,
         customSnippets = {
           ["html5-template"] = "<!DOCTYPE html>\n<html>\n<head>\n<title>${1:Document}</title>\n</head>\n<body>\n${2}\n</body>\n</html>",
         },
       },
-      tailwindCSS = { -- Integrasi TailwindCSS IntelliSense
+      -- Integrasi TailwindCSS IntelliSense
+      tailwindCSS = {
         validate = true,
         format = true,
         completion = true,
         lint = true,
       },
-      semanticHighlighting = { -- Semantic Highlighting
+      -- Semantic Highlighting
+      semanticHighlighting = {
         enable = true,
       },
+      -- Debugging untuk HTML (jika menggunakan Debugger)
       debug = {
         enable = true,
         logLevel = "debug",
@@ -522,6 +534,7 @@ lspconfig.html.setup {
           startInBackground = true,
         },
       },
+      -- API Dokumentasi dan Pemetaan
       api = {
         documentation = {
           enable = true,
@@ -532,10 +545,44 @@ lspconfig.html.setup {
           trigger = "ctrl-space",
         },
       },
+
+      -- **UPDATE HTML**
+      -- Menambahkan dukungan untuk atribut ARIA pada elemen HTML untuk aksesibilitas
+      accessibility = {
+        enable = true,
+        suggestions = {
+          ariaAttributes = true,
+          roles = true,
+        },
+      },
+      
+      -- **UPDATE HTML**
+      -- Menambahkan dukungan untuk atribut gambar dalam HTML
+      image = {
+        enable = true,
+        suggest = true,
+        validate = true,
+      },
+
+      -- **UPDATE HTML**
+      -- Menambahkan dukungan untuk linting dan format pada file SVG
+      svg = {
+        enable = true,
+        validate = true,
+        format = true,
+      },
+
+      -- **UPDATE HTML**
+      -- Menambahkan dukungan untuk integrasi format HTML5 untuk tag HTML tertentu
+      html5tags = {
+        enable = true,
+        validate = true,
+        autoClose = true,
+      },
+      
     },
   },
 }
-
 
 
 lspconfig.ruff.setup {
