@@ -168,47 +168,94 @@ connections = {
 
 
 
-## **💡 Pembelajaran Hacking & Keamanan Siber**
+# 📚 Sumber Belajar Online untuk Pemrograman & Keamanan Siber
 
-Berikut adalah beberapa platform yang dapat membantu Anda dalam memperdalam keahlian di **hacking** dan **keamanan siber**:
+## 🛡️ Pembelajaran Hacking & Keamanan Siber
 
-1. **[TryHackMe](https://tryhackme.com)** - Platform interaktif untuk belajar hacking.
-2. **[Hack The Box](https://www.hackthebox.eu)** - Platform untuk latihan ethical hacking.
-3. **[Cybrary](https://www.cybrary.it)** - Kursus seputar keamanan siber dan hacking.
-4. **[OWASP](https://owasp.org)** - Alat dan praktik terbaik untuk keamanan aplikasi.
+Untuk memperdalam pemahaman Anda tentang hacking dan keamanan siber, berikut adalah beberapa platform, kursus, dan sumber daya yang bisa Anda manfaatkan:
 
-### **📦 Distribusi Linux untuk Keamanan & Hacking**
-- **[Kali Linux](https://www.kali.org)** – Distribusi Linux untuk penetration testing.
-- **[Parrot Security OS](https://www.parrotsec.org)** – Alternatif Kali Linux untuk pengujian penetrasi.
-- **[BlackArch](https://blackarch.org)** – Distribusi berbasis Arch Linux dengan lebih dari 2000 alat keamanan.
+- **TryHackMe** - Platform pembelajaran yang menyediakan skenario hacking interaktif untuk memperdalam keterampilan penetrasi dan eksploitasi. [Link](https://tryhackme.com)
+- **Hack The Box** - Platform untuk belajar ethical hacking dengan tantangan yang melibatkan pengujian penetrasi dan eksploitasi. [Link](https://www.hackthebox.eu)
+- **Cybrary** - Platform pembelajaran dengan kursus seputar keamanan siber, hacking, dan forensik digital. [Link](https://www.cybrary.it)
+- **Offensive Security** - Penyedia pelatihan profesional di bidang keamanan siber, termasuk kursus untuk mempersiapkan sertifikasi OSCP (Offensive Security Certified Professional). [Link](https://www.offensive-security.com)
+- **OWASP** - Organisasi yang berfokus pada meningkatkan keamanan perangkat lunak dengan berbagai alat dan praktik terbaik. [Link](https://owasp.org)
+- **Darknet Diaries** - Podcast tentang dunia hacking, peretasan, dan keamanan siber. [Link](https://darknetdiaries.com)
+- **PentesterLab** - Platform untuk belajar penetration testing dan keamanan aplikasi web dengan latihan yang berfokus pada eksploitasi. [Link](https://www.pentesterlab.com)
+- **SANS Institute** - Penyedia pelatihan dan sertifikasi untuk profesional di bidang keamanan siber. [Link](https://www.sans.org)
 
----
+## 📦 Distribusi Linux untuk Keamanan & Hacking
 
-## **🔧 Library untuk Pengembangan: Python, Java, Deep Learning**
+Berikut adalah beberapa distribusi Linux yang mendukung hacking dan pengujian penetrasi, dengan berbagai alat yang sudah terpasang untuk membantu Anda mengasah keterampilan hacking Anda:
+
+- **Kali Linux** – Salah satu distribusi Linux paling populer untuk penetration testing dan keamanan, dengan lebih dari 600 alat keamanan yang sudah terinstal. [Link](https://www.kali.org)
+- **Parrot Security OS** – Sistem operasi berbasis Debian yang dirancang untuk pengujian penetrasi dan forensik digital. Alternatif Kali Linux. [Link](https://www.parrotsec.org)
+- **BlackArch** – Distribusi berbasis Arch Linux yang dirancang untuk penetration testers dan para profesional keamanan siber dengan lebih dari 2000 alat hacking. [Link](https://blackarch.org)
+- **BackBox Linux** – Distribusi berbasis Ubuntu untuk pengujian penetrasi dengan fokus pada keamanan dan forensik. [Link](https://www.backbox.org)
+- **Red Hat Linux** – Distribusi Linux yang sering digunakan untuk pengembangan server dan mendukung banyak alat dan framework untuk pengujian penetrasi. [Link](https://www.redhat.com)
+- **Tails** – Sistem operasi berbasis Debian yang dirancang untuk menjaga privasi dan anonimitas online. [Link](https://tails.boum.org)
+
+## 🔒 Pembelajaran & Sertifikasi Keamanan Siber
+
+- **EC-Council** - Penyedia kursus dan sertifikasi seperti CEH (Certified Ethical Hacker) dan ECSA (EC-Council Certified Security Analyst). [Link](https://www.eccouncil.org)
+- **CompTIA Security+** - Sertifikasi yang menguji pengetahuan dasar keamanan siber yang sangat berguna bagi pemula. [Link](https://www.comptia.org/certifications/security)
+- **CISSP** - Sertifikasi untuk profesional keamanan siber yang berfokus pada pengelolaan dan perlindungan data. [Link](https://www.isc2.org/cissp)
+
+## 🖥️ Library untuk Pengembangan: Python, Java, Deep Learning
 
 ### **Python Libraries untuk Keamanan & Data Science:**
-- **[Scikit-learn](https://scikit-learn.org/stable/)** – Library untuk machine learning di Python.
-- **[TensorFlow](https://www.tensorflow.org)** – Framework deep learning untuk Python.
-- **[Keras](https://keras.io)** – API untuk deep learning, berbasis TensorFlow.
+
+- **Scikit-learn** – Library untuk machine learning di Python, digunakan dalam pengolahan data dan prediksi. [Link](https://scikit-learn.org)
+- **TensorFlow** – Library untuk machine learning dan deep learning yang memungkinkan pengembangan model AI. [Link](https://www.tensorflow.org)
+- **Keras** – API untuk machine learning yang memudahkan penggunaan TensorFlow dalam pengembangan aplikasi deep learning. [Link](https://keras.io)
+- **PyTorch** – Framework deep learning lain yang sangat populer di kalangan peneliti dan pengembang AI. [Link](https://pytorch.org)
+- **Requests** – Library untuk memudahkan manipulasi HTTP requests dalam web scraping dan eksploitasi web. [Link](https://requests.readthedocs.io)
+- **BeautifulSoup** – Library untuk web scraping yang memungkinkan pengambilan data dari website. [Link](https://www.crummy.com/software/BeautifulSoup)
+- **Paramiko** – Library untuk SSH (Secure Shell) dan SFTP, digunakan dalam eksploitasi jarak jauh dan administrasi server. [Link](http://www.paramikodocumentation.org)
+- **Scapy** – Alat untuk manipulasi paket jaringan, cocok untuk pengujian penetrasi dan hacking. [Link](https://scapy.readthedocs.io)
+- **NLTK** – Toolkit untuk pemrosesan bahasa alami dalam Python. [Link](https://www.nltk.org)
+- **Flask** – Framework web Python ringan untuk pengembangan aplikasi web yang sederhana. [Link](https://flask.palletsprojects.com)
+- **Django** – Framework web Python tingkat tinggi untuk membangun aplikasi web yang lebih kompleks dan skalabel. [Link](https://www.djangoproject.com)
+- **OpenCV** – Library untuk pengolahan gambar dan komputer visi, digunakan dalam proyek-proyek AI yang berhubungan dengan pengolahan citra. [Link](https://opencv.org)
+- **FastAPI** – Framework web untuk membangun API cepat dengan Python. [Link](https://fastapi.tiangolo.com)
+- **Celery** – Library untuk menjalankan tugas asinkron dan jadwal tugas di Python. [Link](https://docs.celeryproject.org)
 
 ### **Java Libraries untuk Pengembangan & Keamanan:**
-- **[Spring Boot](https://spring.io/projects/spring-boot)** – Framework Java untuk aplikasi backend.
-- **[Apache Kafka](https://kafka.apache.org)** – Platform streaming terdistribusi untuk Java.
-- **[JUnit](https://junit.org/junit5/)** – Library unit testing untuk Java.
+
+- **Spring Boot** – Framework Java untuk aplikasi backend. [Link](https://spring.io/projects/spring-boot)
+- **Apache Kafka** – Platform streaming terdistribusi untuk Java. [Link](https://kafka.apache.org)
+- **JUnit** – Library unit testing untuk Java. [Link](https://junit.org)
+- **Apache Spark** – Framework untuk pengolahan data besar dan analisis yang sangat populer di Java dan Scala. [Link](https://spark.apache.org)
+- **JasperReports** – Library untuk menghasilkan laporan dalam format PDF, HTML, dan lainnya. [Link](https://community.jaspersoft.com)
+- **Hibernate** – Framework Java untuk ORM (Object Relational Mapping), memudahkan interaksi dengan database. [Link](https://hibernate.org)
+- **Spring Security** – Alat untuk menambah lapisan keamanan di aplikasi Java, termasuk autentikasi dan otorisasi. [Link](https://spring.io/projects/spring-security)
+- **Log4j** – Framework untuk logging di aplikasi Java. [Link](https://logging.apache.org)
+- **JAX-RS** – API untuk membangun layanan RESTful dengan Java. [Link](https://javaee.github.io)
+- **DeepLearning4J** – Library deep learning untuk Java, digunakan dalam pengembangan model pembelajaran mendalam di lingkungan Java. [Link](https://deeplearning4j.org)
+
+
+### **Gradle & Maven (Tools untuk Build Automation):**
+
+- **Gradle** – Alat build otomatisasi yang sangat populer untuk proyek Java, menyediakan dukungan untuk berbagai bahasa dan platform. [Link](https://gradle.org)
+- **Maven** – Alat manajemen proyek dan build otomatisasi yang digunakan untuk mengelola dependensi dan pengelolaan proyek Java. [Link](https://maven.apache.org)
+- **Apache Ant** – Alat build otomatisasi untuk Java yang menawarkan banyak fleksibilitas tetapi membutuhkan lebih banyak konfigurasi manual. [Link](https://ant.apache.org)
+- **Jenkins** – Server otomatisasi untuk integrasi dan pengujian berkelanjutan (CI/CD) yang mendukung proyek-proyek Java dan pengembangan perangkat lunak lainnya. [Link](https://www.jenkins.io)
+
+## 💻 Platform Pembelajaran Hacking dan Coding
+
+Untuk memperdalam keterampilan coding dan hacking, Anda bisa mengakses beberapa platform ini:
+
+- **LeetCode** - Platform untuk latihan soal coding dan algoritma yang sangat baik untuk mempersiapkan wawancara kerja di perusahaan besar. [Link](https://leetcode.com)
+- **Codewars** - Platform latihan coding dengan tantangan yang berfokus pada berbagai bahasa pemrograman. [Link](https://www.codewars.com)
+- **HackerRank** - Platform untuk belajar coding dengan latihan soal di berbagai bahasa dan topik, termasuk algoritma dan struktur data. [Link](https://www.hackerrank.com)
+- **Exercism** - Platform pembelajaran coding interaktif dengan latihan soal di berbagai bahasa pemrograman. [Link](https://exercism.io)
+- **EdX** - Platform kursus online yang menawarkan kursus keamanan siber, coding, dan teknologi. [Link](https://www.edx.org)
+- **Coursera** - Platform dengan kursus dari universitas ternama, mencakup coding, keamanan siber, dan pengembangan perangkat lunak. [Link](https://www.coursera.org)
 
 ---
 
-## **🔧 Tools & Platform Pengembangan Lainnya**
-
-### **Neovim Resources:**
-- **[Neovim Official Website](https://neovim.io)** – Website resmi untuk Neovim.
-- **[Mason.nvim](https://github.com/williamboman/mason.nvim)** – Plugin untuk mengelola alat di Neovim.
-- **[Neovim LSP Config](https://github.com/neovim/nvim-lspconfig)** – Plugin untuk LSP di Neovim.
-
-### **Gradle & JDK:**
-- **[Gradle Official Website](https://gradle.org)** – Platform untuk membangun aplikasi.
-- **[OpenJDK](https://openjdk.java.net)** – Open-source JDK untuk pengembangan Java.
+Dengan sumber daya dan kursus ini, Anda bisa memulai perjalanan Anda untuk menguasai **hacking**, **keamanan siber**, serta pengembangan **AI**, **machine learning**, **deep learning**, dan **web development**. Terus berlatih, eksplorasi berbagai alat dan teknik baru, serta terlibat dalam komunitas untuk meningkatkan keterampilan Anda!
 
 ---
+
 
 Dengan mengikuti sumber daya dan kursus ini, Anda dapat memperdalam pengetahuan di bidang **hacking**, **keamanan siber**, dan **pengembangan perangkat lunak** secara lebih efektif. Jangan lupa untuk berlatih secara konsisten dan mengeksplorasi berbagai distribusi Linux dan tools hacking lainnya yang dapat membantu Anda mencapai tujuan pengembangan dan keamanan Anda. 🚀
