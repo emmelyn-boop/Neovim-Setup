@@ -255,7 +255,7 @@ Untuk memperdalam keterampilan coding dan hacking, Anda bisa mengakses beberapa 
 
 # Pembelajaran Sistem Informasi dan Analisis Data
 
-Untuk memperdalam pengetahuan dalam bidang **Sistem Informasi**, **Data Analysis**, dan **System Analysis**, berikut adalah beberapa sumber belajar dan kursus yang dapat membantu Anda:
+
 
 ## Sistem Informasi
 - **Harvard University – CS50’s Introduction to Computer Science** – Kursus dasar yang sangat terkenal yang mengajarkan prinsip-prinsip dasar pemrograman dan pengembangan perangkat lunak, serta pengenalan dasar Sistem Informasi. [Link](https://cs50.harvard.edu/)
