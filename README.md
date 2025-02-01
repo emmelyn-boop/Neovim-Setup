@@ -240,7 +240,7 @@ Berikut adalah beberapa distribusi Linux yang mendukung hacking dan pengujian pe
 - **Apache Ant** – Alat build otomatisasi untuk Java yang menawarkan banyak fleksibilitas tetapi membutuhkan lebih banyak konfigurasi manual. [Link](https://ant.apache.org)
 - **Jenkins** – Server otomatisasi untuk integrasi dan pengujian berkelanjutan (CI/CD) yang mendukung proyek-proyek Java dan pengembangan perangkat lunak lainnya. [Link](https://www.jenkins.io)
 
-## 💻 Platform Pembelajaran Hacking dan Coding
+## 💻 Platform Pembelajaran  Coding
 
 Untuk memperdalam keterampilan coding dan hacking, Anda bisa mengakses beberapa platform ini:
 
