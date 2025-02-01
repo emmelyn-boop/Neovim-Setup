@@ -251,11 +251,33 @@ Untuk memperdalam keterampilan coding dan hacking, Anda bisa mengakses beberapa 
 - **EdX** - Platform kursus online yang menawarkan kursus keamanan siber, coding, dan teknologi. [Link](https://www.edx.org)
 - **Coursera** - Platform dengan kursus dari universitas ternama, mencakup coding, keamanan siber, dan pengembangan perangkat lunak. [Link](https://www.coursera.org)
 
+
+
+## 💡 Pembelajaran Sistem Informasi
+
+Untuk memperdalam pengetahuan dalam bidang **Sistem Informasi**, berikut adalah beberapa sumber belajar dan kursus yang dapat membantu Anda:
+
+- **Harvard University – CS50’s Introduction to Computer Science** – Kursus dasar yang sangat terkenal yang mengajarkan prinsip-prinsip dasar pemrograman dan pengembangan perangkat lunak, serta pengenalan dasar Sistem Informasi. [Link](https://cs50.harvard.edu/)
+- **Coursera - Information Systems Specialization by University of Minnesota** – Kursus yang menawarkan pemahaman mendalam tentang sistem informasi dan bagaimana mereka mendukung pengambilan keputusan dan operasi bisnis. [Link](https://www.coursera.org/specializations/information-systems)
+- **Udemy - Learning SQL for Data Science and Information Systems** – Kursus praktis untuk belajar SQL, sangat penting untuk memahami bagaimana sistem informasi bekerja dengan basis data. [Link](https://www.udemy.com/course/learn-sql-for-data-science/)
+- **MIT OpenCourseWare – Information Systems** – Kursus sistem informasi dari MIT yang memberikan pemahaman tentang teknologi informasi dalam bisnis dan pengambilan keputusan. [Link](https://ocw.mit.edu/courses/sloan-school-of-management/15-564-information-systems-technology-for-management-spring-2013/)
+- **LinkedIn Learning – Information Systems for Managers** – Kursus pengenalan untuk manajer yang ingin memahami bagaimana sistem informasi dapat meningkatkan operasional bisnis. [Link](https://www.linkedin.com/learning/information-systems-for-managers)
+- **Project Management Institute (PMI) – Project Management for Information Systems** – Platform yang menawarkan pelatihan dalam manajemen proyek yang berfokus pada sistem informasi. [Link](https://www.pmi.org/)
+- **edX – Information Systems for Business and Beyond** – Kursus yang mengajarkan bagaimana teknologi sistem informasi mempengaruhi dunia bisnis modern. [Link](https://www.edx.org/course/information-systems-for-business-and-beyond)
+- **Google Cloud – Data Engineering for Information Systems** – Pelatihan terkait teknik data engineering yang membantu mengoptimalkan sistem informasi dalam organisasi. [Link](https://cloud.google.com/training)
+- **Pluralsight – Systems Analysis and Design** – Kursus yang memberikan pemahaman tentang analisis dan desain sistem untuk pengembangan aplikasi perangkat lunak. [Link](https://www.pluralsight.com/courses/systems-analysis-design)
+- **Microsoft Learn – Microsoft Power Platform for Information Systems** – Pembelajaran tentang bagaimana menggunakan Power Platform untuk menciptakan solusi berbasis sistem informasi di perusahaan. [Link](https://learn.microsoft.com/en-us/learn/modules/introduction-to-power-platform/)
+
+---
+
+### Buku & Referensi untuk Sistem Informasi:
+
+- **“Information Systems for Business and Beyond” by Arshad Khan** – Buku yang memberikan wawasan mendalam tentang bagaimana teknologi informasi digunakan dalam konteks bisnis. [Link](https://www.amazon.com/Information-Systems-Business-Beyond-Khan/dp/152494358X)
+- **“Management Information Systems” by James A. O’Brien & George M. Marakas** – Buku yang mencakup topik pengelolaan informasi dalam bisnis serta aplikasi perangkat lunak terkait. [Link](https://www.amazon.com/Management-Information-Systems-James-OBrien/dp/0073376751)
+- **“Database Systems: Design, Implementation, & Management” by Carlos Coronel & Steven Morris** – Buku yang memberikan pemahaman komprehensif tentang desain dan manajemen sistem basis data dalam sistem informasi. [Link](https://www.amazon.com/Database-Systems-Design-Implementation-Management/dp/1285737032)
+
 ---
 
 Dengan sumber daya dan kursus ini, Anda bisa memulai perjalanan Anda untuk menguasai **hacking**, **keamanan siber**, serta pengembangan **AI**, **machine learning**, **deep learning**, dan **web development**. Terus berlatih, eksplorasi berbagai alat dan teknik baru, serta terlibat dalam komunitas untuk meningkatkan keterampilan Anda!
-
----
-
 
 Dengan mengikuti sumber daya dan kursus ini, Anda dapat memperdalam pengetahuan di bidang **hacking**, **keamanan siber**, dan **pengembangan perangkat lunak** secara lebih efektif. Jangan lupa untuk berlatih secara konsisten dan mengeksplorasi berbagai distribusi Linux dan tools hacking lainnya yang dapat membantu Anda mencapai tujuan pengembangan dan keamanan Anda. 🚀
