@@ -253,10 +253,11 @@ Untuk memperdalam keterampilan coding dan hacking, Anda bisa mengakses beberapa 
 
 
 
-## 💡 Pembelajaran Sistem Informasi
+# Pembelajaran Sistem Informasi dan Analisis Data
 
-Untuk memperdalam pengetahuan dalam bidang **Sistem Informasi**, berikut adalah beberapa sumber belajar dan kursus yang dapat membantu Anda:
+Untuk memperdalam pengetahuan dalam bidang **Sistem Informasi**, **Data Analysis**, dan **System Analysis**, berikut adalah beberapa sumber belajar dan kursus yang dapat membantu Anda:
 
+## Sistem Informasi
 - **Harvard University – CS50’s Introduction to Computer Science** – Kursus dasar yang sangat terkenal yang mengajarkan prinsip-prinsip dasar pemrograman dan pengembangan perangkat lunak, serta pengenalan dasar Sistem Informasi. [Link](https://cs50.harvard.edu/)
 - **Coursera - Information Systems Specialization by University of Minnesota** – Kursus yang menawarkan pemahaman mendalam tentang sistem informasi dan bagaimana mereka mendukung pengambilan keputusan dan operasi bisnis. [Link](https://www.coursera.org/specializations/information-systems)
 - **Udemy - Learning SQL for Data Science and Information Systems** – Kursus praktis untuk belajar SQL, sangat penting untuk memahami bagaimana sistem informasi bekerja dengan basis data. [Link](https://www.udemy.com/course/learn-sql-for-data-science/)
@@ -267,6 +268,20 @@ Untuk memperdalam pengetahuan dalam bidang **Sistem Informasi**, berikut adalah 
 - **Google Cloud – Data Engineering for Information Systems** – Pelatihan terkait teknik data engineering yang membantu mengoptimalkan sistem informasi dalam organisasi. [Link](https://cloud.google.com/training)
 - **Pluralsight – Systems Analysis and Design** – Kursus yang memberikan pemahaman tentang analisis dan desain sistem untuk pengembangan aplikasi perangkat lunak. [Link](https://www.pluralsight.com/courses/systems-analysis-design)
 - **Microsoft Learn – Microsoft Power Platform for Information Systems** – Pembelajaran tentang bagaimana menggunakan Power Platform untuk menciptakan solusi berbasis sistem informasi di perusahaan. [Link](https://learn.microsoft.com/en-us/learn/modules/introduction-to-power-platform/)
+
+## Data Analysis
+- **Coursera - Data Science Specialization by Johns Hopkins University** – Kursus ini mencakup seluruh siklus hidup data, mulai dari pengumpulan hingga analisis dan visualisasi data. [Link](https://www.coursera.org/specializations/jhu-data-science)
+- **Udacity - Data Analyst Nanodegree** – Program yang menyediakan pemahaman mendalam mengenai teknik analisis data, termasuk pengolahan data dengan Python, SQL, dan visualisasi. [Link](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
+- **Kaggle - Learn Data Analysis** – Kaggle menyediakan tutorial dan dataset untuk berlatih analisis data secara langsung di platform mereka. [Link](https://www.kaggle.com/learn)
+- **LinkedIn Learning - Data Analytics for Business** – Kursus ini memberikan panduan untuk menganalisis data yang digunakan dalam konteks bisnis untuk membuat keputusan yang lebih baik. [Link](https://www.linkedin.com/learning/data-analytics-for-business)
+- **edX - Data Science for Business by UC Berkeley** – Kursus ini mengajarkan teknik dan alat analisis data yang digunakan untuk pengambilan keputusan bisnis yang lebih efektif. [Link](https://www.edx.org/course/data-science-for-business)
+
+## System Analysis
+- **Coursera - Business and Systems Analysis Specialization by University of Colorado Boulder** – Kursus ini memfokuskan pada pemahaman dan penerapan prinsip-prinsip analisis sistem dalam konteks bisnis. [Link](https://www.coursera.org/specializations/business-systems-analysis)
+- **Pluralsight - Business Systems Analysis** – Kursus yang mengajarkan keterampilan analisis sistem, termasuk bagaimana mengidentifikasi kebutuhan bisnis dan mendesain solusi teknologi yang tepat. [Link](https://www.pluralsight.com/courses/business-systems-analysis)
+- **LinkedIn Learning - Business Systems Analysis Foundations** – Kursus pengenalan untuk analisis sistem bisnis yang berfokus pada mengumpulkan dan mengelola persyaratan untuk proyek teknologi. [Link](https://www.linkedin.com/learning/business-systems-analysis-foundations)
+- **Udemy - Systems Analysis and Design** – Kursus ini mengajarkan tentang proses analisis dan desain sistem informasi, mulai dari pengumpulan persyaratan hingga desain sistem akhir. [Link](https://www.udemy.com/course/systems-analysis-and-design/)
+- **MIT OpenCourseWare - System Analysis and Design** – Kursus dari MIT ini memberikan pemahaman mendalam tentang teknik dan alat yang digunakan dalam analisis dan desain sistem perangkat lunak. [Link](https://ocw.mit.edu/courses/sloan-school-of-management/15-312-system-analysis-and-design-fall-2006/)
 
 ---
 
