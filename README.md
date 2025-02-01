@@ -292,7 +292,4 @@ Untuk memperdalam keterampilan coding dan hacking, Anda bisa mengakses beberapa 
 - **“Database Systems: Design, Implementation, & Management” by Carlos Coronel & Steven Morris** – Buku yang memberikan pemahaman komprehensif tentang desain dan manajemen sistem basis data dalam sistem informasi. [Link](https://www.amazon.com/Database-Systems-Design-Implementation-Management/dp/1285737032)
 
 ---
-
-Dengan sumber daya dan kursus ini, Anda bisa memulai perjalanan Anda untuk menguasai **hacking**, **keamanan siber**, serta pengembangan **AI**, **machine learning**, **deep learning**, dan **web development**. Terus berlatih, eksplorasi berbagai alat dan teknik baru, serta terlibat dalam komunitas untuk meningkatkan keterampilan Anda!
-
-Dengan mengikuti sumber daya dan kursus ini, Anda dapat memperdalam pengetahuan di bidang **hacking**, **keamanan siber**, dan **pengembangan perangkat lunak** secara lebih efektif. Jangan lupa untuk berlatih secara konsisten dan mengeksplorasi berbagai distribusi Linux dan tools hacking lainnya yang dapat membantu Anda mencapai tujuan pengembangan dan keamanan Anda. 🚀
+keep Enjoy  🚀
